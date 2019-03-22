@@ -14,7 +14,9 @@ public class Test
 	z=Integer.parseInt(args[2]);
         
 	s=x+y+z;
-        System.out.println("sum of " + x + "+" + y +"and"+z+" is " +s);
+	System.out.println("********************");
+        System.out.println("Sum of " + x + "+" + y +"and"+z+" is " +s);
+	
 	
     }
 }
